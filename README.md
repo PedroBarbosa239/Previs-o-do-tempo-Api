@@ -19,3 +19,28 @@ Ao digitar o nome da cidade, o sistema faz uma requisição a uma **API pública
 ## ⚙️ Estrutura do Projeto
 O projeto é composto por apenas três arquivos principais:
 
+previsao-tempo/
+├── index.html # Página principal
+├── style.css # Arquivo de estilos
+└── script.js # Código JavaScript com a lógica de busca
+
+
+## 💡 Funcionalidades
+- 🔍 Busca de cidade informada pelo usuário  
+- 🌡️ Exibição da **temperatura atual**  
+- 💧 Exibição da **umidade do ar**  
+- 🌍 Interface leve, responsiva e de fácil uso  
+
+## 🧰 Como Executar
+1. Faça o download dos arquivos ou clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/previsao-tempo.git
+🤝 Contribuições
+
+Sugestões e melhorias são sempre bem-vindas!
+Você pode abrir uma issue ou enviar um pull request.
+
+🧾 Licença
+
+Projeto criado para fins educacionais.
+Pode ser usado e modificado livremente, desde que citada a autoria original.
