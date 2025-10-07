@@ -20,9 +20,9 @@ Ao digitar o nome da cidade, o sistema faz uma requisição a uma **API pública
 O projeto é composto por apenas três arquivos principais:
 
 previsao-tempo/
-├── index.html # Página principal
-├── style.css # Arquivo de estilos
-└── script.js # Código JavaScript com a lógica de busca
+─ index.html # Página principal
+─ style.css # Arquivo de estilos
+─ script.js # Código JavaScript com a lógica de busca
 
 
 ## 💡 Funcionalidades
