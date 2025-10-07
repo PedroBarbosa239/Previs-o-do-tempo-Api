@@ -16,13 +16,6 @@ Ao digitar o nome da cidade, o sistema faz uma requisição a uma **API pública
 - **JavaScript (ES6+)** – Lógica de busca e integração com a API  
 - **API Pública (ex: OpenWeatherMap)** – Fornece os dados meteorológicos  
 
-## ⚙️ Estrutura do Projeto
-O projeto é composto por apenas três arquivos principais:
-
-previsao-tempo/
-─ index.html # Página principal
-─ style.css # Arquivo de estilos
-─ script.js # Código JavaScript com a lógica de busca
 
 
 ## 💡 Funcionalidades
@@ -40,7 +33,3 @@ previsao-tempo/
 Sugestões e melhorias são sempre bem-vindas!
 Você pode abrir uma issue ou enviar um pull request.
 
-🧾 Licença
-
-Projeto criado para fins educacionais.
-Pode ser usado e modificado livremente, desde que citada a autoria original.
